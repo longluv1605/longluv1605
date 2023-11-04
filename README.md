@@ -1,8 +1,8 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Long Pham. I am a student at UET-VNU, majoring in Artificial Intelligence. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Data Science. Reinforcement Learning.<br>
 ## 📫 How to reach me: 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/longpt04/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/longluv1605)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/longpt04/) 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/longluv1605)
 
 
 
