@@ -10,7 +10,7 @@ My name is Long Pham. I am a student at UET-VNU, majoring in Artificial Intellig
 
 <a href="https://github.com/longluv1605/final-project-Python-DataAnalyst/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=final-project-Python-DataAnalyst&theme=maroongold" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=final-project-Python-DataAnalyst&theme=shades-of-purple" />
 </a>
 
 <a href="https://github.com/longluv1605/realtime-chat-app/">
@@ -19,7 +19,7 @@ My name is Long Pham. I am a student at UET-VNU, majoring in Artificial Intellig
 </a>    
 <a href="https://github.com/longluv1605/first-web-server/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=first-web-server&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=first-web-server&theme=algolia" />
 </a>
 
 <a href="https://github.com/longluv1605/Intellius/">
