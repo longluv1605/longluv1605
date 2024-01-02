@@ -36,7 +36,7 @@ My name is Long Pham. I am a student at UET-VNU, majoring in Artificial Intellig
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=22022604_BTH2&theme=onedark" />
 </a>    
 
-<a href="https://github.com/longluv1605/final-project-Python-DataAnalyst/">
+<a href="https://github.com/longluv1605/HospitalMS/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=final-project-Python-DataAnalyst&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=HospitalMS&theme=tokyonight" />
 </a>  
