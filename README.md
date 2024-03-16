@@ -26,17 +26,8 @@ My name is Long Pham. I am a student at UET-VNU, majoring in Artificial Intellig
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=Intellius&theme=gruvbox" />
 </a>    
+
 <a href="https://github.com/longluv1605/BoombermanGame/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=BoombermanGame&theme=dark" />
 </a>
-
-<a href="https://github.com/longluv1605/22022604_BTH2/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=22022604_BTH2&theme=onedark" />
-</a>    
-
-<a href="https://github.com/longluv1605/HospitalMS/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=HospitalMS&theme=tokyonight" />
-</a>  
