@@ -22,13 +22,9 @@ My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial In
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=final-project-Python-DataAnalyst&theme=shades-of-purple" />
 </a>
 
-<a href="https://github.com/longluv1605/realtime-chat-app/">
+<a href="https://github.com/longluv1605/PriceFunc/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=realtime-chat-app&theme=radical" />
-</a>    
-<a href="https://github.com/longluv1605/first-web-server/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=first-web-server&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=PriceFunc&theme=radical" />
 </a>
 
 <a href="https://github.com/longluv1605/Intellius/">
