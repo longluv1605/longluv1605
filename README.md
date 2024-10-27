@@ -1,9 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial Intelligence. I am interested in the following topics: Deep Learning in NLP, Computer Vision and also Large Language Model. Data Science. Reinforcement Learning.<br>
 ## 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/longpt04/) 
-[GitHub](https://github.com/longluv1605)
-
+[LinkedIn](https://www.linkedin.com/in/longpt04/)
 
 ![Long's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=longluv1605&show_icons=true&theme=tokyonight)
 
