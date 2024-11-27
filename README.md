@@ -29,3 +29,4 @@ My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial In
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=BoombermanGame&theme=dark" />
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicore12&" alt="vicore12" /></p>
