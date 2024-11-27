@@ -3,6 +3,8 @@ My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial In
 ## 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/longpt04/)
 
+[![Long's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=longluv1605&theme=codestackr)](https://git.io/streak-stats)
+
 ![Long's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=longluv1605&show_icons=true&theme=tokyonight)
 
 <a href="https://github.com/longluv1605/Moflix/">
@@ -29,4 +31,3 @@ My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial In
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=BoombermanGame&theme=dark" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longluv1605&" alt="longluv1605" /></p>
