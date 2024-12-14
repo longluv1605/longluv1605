@@ -13,12 +13,12 @@ My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial In
 
 <a href="https://github.com/longluv1605/motor-imagery-classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=motor-imagery-classification&theme=outrun" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=motor-imagery-classification&theme=github_dark" />
 </a>
 
 <a href="https://github.com/longluv1605/Image_segmentation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=Image_segmentation&theme=panda" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=Image_segmentation&theme=chartreuse-dark" />
 </a>
 
 <a href="https://github.com/longluv1605/crypto-streaming-bigdata/">
