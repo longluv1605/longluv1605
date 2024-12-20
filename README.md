@@ -21,6 +21,11 @@ My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial In
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=crypto-streaming-bigdata&theme=great-gatsby" />
 </a>
 
+<a href="https://github.com/longluv1605/UET-DeepLearning">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=UET-DeepLearning&theme=great-gatsby" />
+</a>
+
 <a href="https://github.com/longluv1605/Moflix/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=Moflix&theme=radical" />
