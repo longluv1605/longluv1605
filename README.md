@@ -6,9 +6,9 @@ My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial In
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=longluv1605&theme=codestackr" alt="Long's GitHub Streak" /></a>
 <a><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=longluv1605&show_icons=true&theme=tokyonight" alt="Long's GitHub Stats" /></a>
 
-<a href="https://github.com/longluv1605/motor-imagery-classification">
+<a href="https://github.com/longluv1605/leaves-area">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=motor-imagery-classification&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=leaves-area&theme=great-gatsby" />
 </a>
 
 <a href="https://github.com/longluv1605/Image_segmentation">
@@ -21,9 +21,9 @@ My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial In
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=crypto-streaming-bigdata&theme=great-gatsby" />
 </a>
 
-<a href="https://github.com/longluv1605/leaves-area">
+<a href="https://github.com/longluv1605/motor-imagery-classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=leaves-area&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=motor-imagery-classification&theme=radical" />
 </a>
 
 <a href="https://github.com/longluv1605/Moflix/">
@@ -34,9 +34,4 @@ My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial In
 <a href="https://github.com/longluv1605/Intellius/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=Intellius&theme=gruvbox" />
-</a>    
-
-<a href="https://github.com/longluv1605/BoombermanGame/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=BoombermanGame&theme=dark" />
 </a>
