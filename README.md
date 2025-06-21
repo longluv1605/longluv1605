@@ -21,17 +21,17 @@ My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial In
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=crypto-streaming-bigdata&theme=great-gatsby" />
 </a>
 
+<a href="https://github.com/longluv1605/machine-translator">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=machine-translator&theme=radical" />
+</a>
+
 <a href="https://github.com/longluv1605/motor-imagery-classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=motor-imagery-classification&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=motor-imagery-classification&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/longluv1605/Moflix/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=Moflix&theme=radical" />
-</a>
-
-<a href="https://github.com/longluv1605/Intellius/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=Intellius&theme=gruvbox" />
 </a>
