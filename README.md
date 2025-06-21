@@ -11,9 +11,9 @@ My name is Long Pham Thanh. I am a student at UET-VNU, majoring in Artificial In
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=leaves-area&theme=great-gatsby" />
 </a>
 
-<a href="https://github.com/longluv1605/Image_segmentation">
+<a href="https://github.com/longluv1605/traffic-monitor">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=Image_segmentation&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=longluv1605&repo=traffic-monitor&theme=chartreuse-dark" />
 </a>
 
 <a href="https://github.com/longluv1605/crypto-streaming-bigdata/">
